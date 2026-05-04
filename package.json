@@ -9,6 +9,9 @@
     "build": "cd frontend && npm run build"
   },
   "keywords": [],
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "author": "",
   "license": "ISC"
 }
